@@ -2,3 +2,4 @@ hello, iam Dembe
 iam learning python
 iam the best coder
 iam the best
+Goal: become Ai engineer
